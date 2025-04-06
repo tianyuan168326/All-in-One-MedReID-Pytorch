@@ -42,6 +42,8 @@ Link: https://pan.baidu.com/s/1GD-TsafqYhbXM6VwQVUwIA?pwd=fbge
 - [ ] **Open Source Train/Validation Split**  
   Publish the scripts/configuration used to generate the train/val split for the dataset.
 
+- [ ] **Open Source The Benchmark Methods** 
+
 - [ ] **Open Source Training Code**  
   Release the complete training pipeline including all scripts and configuration files.
 
