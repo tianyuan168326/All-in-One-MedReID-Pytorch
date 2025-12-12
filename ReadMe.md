@@ -28,7 +28,9 @@ MaMI is the fist unified re-identification model for medical images, capable of 
 ## Pre-trained Model
 MAMI_pretrained.pth
 
-Link: https://pan.baidu.com/s/1GD-TsafqYhbXM6VwQVUwIA?pwd=fbge
+Google Driver Link: https://drive.google.com/file/d/159KsDSgzgFCdSLN-I1iO0I2Z8Dm7dpiK/view?usp=sharing
+
+BaiduYun (百度网盘) Link: https://pan.baidu.com/s/1GD-TsafqYhbXM6VwQVUwIA?pwd=fbge
 
 ## Usage
 
