@@ -51,11 +51,42 @@ BaiduYun (百度网盘) Link: https://pan.baidu.com/s/1GD-TsafqYhbXM6VwQVUwIA?pw
 
 
 ## Citation
-If you find our work useful, please cite:
+If you find our work useful, please consider citing our works on medical image privacy protection:
 
-@article{tian2025towards,
+@inproceedings{tian2025towards,
   title={Towards All-in-One Medical Image Re-Identification},
   author={Tian, Yuan and Ji, Kaiyuan and Zhang, Rongzhao and Jiang, Yankai and Li, Chunyi and Wang, Xiaosong and Zhai, Guangtao},
-  journal={arXiv preprint arXiv:2503.08173},
+  booktitle={Proceedings of the Computer Vision and Pattern Recognition Conference},
+  pages={30774--30786},
+  year={2025}
+}
+
+
+@inproceedings{tian2025semantic,
+  title={Semantic versus Identity: A Divide-and-Conquer Approach towards Adjustable Medical Image De-Identification},
+  author={Tian, Yuan and Wang, Shuo and Zhang, Rongzhao and Chen, Zijian and Jiang, Yankai and Li, Chunyi and Zhu, Xiangyang and Yan, Fang and Hu, Qiang and Wang, XiaoSong and others},
+  booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision},
+  pages={20613--20625},
+  year={2025}
+}
+
+@article{tian2025rofi,
+  title={ROFI: a deep learning-based ophthalmic sign-preserving and reversible patient face anonymizer},
+  author={Tian, Yuan and Zhou, Min and Chen, Yitong and Li, Fang and Qi, Lingzi and Wang, Shuo and Xu, Xieyang and Yu, Yu and Xu, Shiqiong and Lei, Chaoyu and others},
+  journal={npj Digital Medicine},
+  volume={8},
+  number={1},
+  pages={705},
+  year={2025},
+  publisher={Nature Publishing Group UK London}
+}
+
+@inproceedings{tian2025medical,
+  title={Medical manifestation-aware de-identification},
+  author={Tian, Yuan and Wang, Shuo and Zhai, Guangtao},
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume={39},
+  number={25},
+  pages={26363--26372},
   year={2025}
 }
