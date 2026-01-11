@@ -52,7 +52,7 @@ BaiduYun (百度网盘) Link: https://pan.baidu.com/s/1GD-TsafqYhbXM6VwQVUwIA?pw
 
 ## Citation
 If you find our work useful, please consider citing our works on medical image privacy protection:
-
+```
 @inproceedings{tian2025towards,
   title={Towards All-in-One Medical Image Re-Identification},
   author={Tian, Yuan and Ji, Kaiyuan and Zhang, Rongzhao and Jiang, Yankai and Li, Chunyi and Wang, Xiaosong and Zhai, Guangtao},
@@ -90,3 +90,4 @@ If you find our work useful, please consider citing our works on medical image p
   pages={26363--26372},
   year={2025}
 }
+```
